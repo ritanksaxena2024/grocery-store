@@ -91,7 +91,7 @@ const Profile = () => {
                     </div>
 
                     <h1 className="text-md font-semibold italic flex items-center gap-2">
-                        What's Your Address <BookOpenCheckIcon size={18} />
+                        What&apos;s Your Address<BookOpenCheckIcon size={18} />
                     </h1>
 
                     <div className="flex flex-col md:flex-row gap-4">
